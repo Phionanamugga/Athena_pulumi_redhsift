@@ -1,3 +1,8 @@
+description: |
+  Deploys a custom Athena–Redshift federated query connector with
+  VPC networking, automated spill management, and secure IAM roles.
+
+
 name: athena-redshift-pulumi
 runtime:
   name: python
